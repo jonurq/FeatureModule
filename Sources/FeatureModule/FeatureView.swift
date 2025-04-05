@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct FeatureView: View {
+public struct FeatureView: View {
     var body: some View {
         Text("Hello, Swifteando!")
     }
