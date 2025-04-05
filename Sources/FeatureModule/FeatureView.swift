@@ -8,6 +8,8 @@
 import SwiftUI
 
 public struct FeatureView: View {
+    public init() { }
+
     public var body: some View {
         Text("Hello, Swifteando!")
     }
