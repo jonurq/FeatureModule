@@ -8,7 +8,9 @@
 import SwiftUI
 
 public struct FeatureView: View {
-    public init() { }
+    public init() {
+        FeatureHelper().aFunction()
+    }
 
     public var body: some View {
         Text("Hello, Swifteando!")
