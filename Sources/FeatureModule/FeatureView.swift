@@ -13,7 +13,7 @@ public struct FeatureView: View {
     }
 
     public var body: some View {
-        Text("Hello, Swifteando!")
+        Text("Hello, chicos!")
     }
 }
 
